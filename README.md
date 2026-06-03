@@ -2,6 +2,9 @@
 
 A premium, interactive, browser-based presentation deck built for Mall of America. This non-linear sales deck is designed to be a high-end luxury brand pitch targeting prospective tenants, sponsors, and event partners.
 
+## 🚀 Deployment Link
+
+> **[View Live Demo Here](https://mall-screening-assignment-ol6b.vercel.app/)**
 
 ## 🛠️ Tech Stack
 
